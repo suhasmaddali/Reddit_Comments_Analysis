@@ -6,4 +6,4 @@ Using wordcloud, we can get to know the frequency of the words that we are takin
 
 With the aid of machine learning and text analysis, we are going to understand the text and get to know the different words that are present in reddit. This would ensure that different macihne learning and deep learning models are applied and the prediction for different parameters be predicted respectively.
 
-
+We first read the data that is stored in pandas dataframe. Once we get an understanding of the dataframe, we are going to be using different machine learning approaches to solve the problem and get the best predictions for the test set respectively. 
