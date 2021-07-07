@@ -1,6 +1,6 @@
 # Reddit Comment Analysis 
 
-It would be really good if we are analyzing the text and getting to know how well the models do on the test set. We are going to be using the text classification system and understand the different machine learning models and this is the time that we are going to get in the long term. 
+It would be good if we are using the text and looking at various features and important words to get to know the context in which weare using the machine learning models for prediction respectively. With the aid of data visualization, we are going to understand the different text components and important features that are present in the text, therefore, getting to know the overall context. 
 
 We see that there are different comments that are being generated everyday. It is important that we understand those comments and classify them so that it becomes easy for others to distinguish the text components and understand the ways at which different things are working accordingly. 
 
