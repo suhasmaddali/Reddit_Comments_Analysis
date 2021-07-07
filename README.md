@@ -1,5 +1,7 @@
 # Reddit Comment Analysis 
 
+It would be really good if we are analyzing the text and getting to know how well the models do on the test set. We are going to be using the text classification system and understand the different machine learning models and this is the time that we are going to get in the long term. 
+
 We see that there are different comments that are being generated everyday. It is important that we understand those comments and classify them so that it becomes easy for others to distinguish the text components and understand the ways at which different things are working accordingly. 
 
 Using wordcloud, we can get to know the frequency of the words that we are taking and this would ensure that we understand the text accordingly. When we are looking at the size of the words, we can get to know the frequency of the occurence of different words that we are taking into consideration respectively. 
