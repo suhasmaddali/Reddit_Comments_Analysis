@@ -32,3 +32,7 @@ Analysing the reddit comments from different users could be really handy and the
 What are some things that we need to be workign in the machine learning models? We are not sure for now. But we see that with the increase in the machine learning models, we are going to be performing different set of tools for the consideration of the values respectively. We are going to be performing different feature engineering techniques that would ensure that we understand the machine learning models and make the best predictions based on the values. 
 
 What is the use of machine learning in agriculture. What are some things that we need to focus when we are developing the machine learning applications. What are some other things that we need to be doing right now. We are learning the things that we are sure that we are going to be performing in the long term. What are some things that we are going to be performing in the long term. 
+
+We see that when we are doing the machine learning analysis, there is a possibility for our machine learning model to overfit from the data. We have to take extra precautions that are important for the machine learning purposes. 
+
+All in all, understanding different aspects of machine learning and using them would be quite useful for the benefits of our society. 
