@@ -23,4 +23,4 @@ Analysing the reddit comments from different users could be really handy and the
 
 We see that when we are doing the machine learning analysis, there is a possibility for our machine learning model to overfit from the data. We have to take extra precautions that are important for the machine learning purposes. 
 
-All in all, understanding different aspects of machine learning and using them would be quite useful for the benefits of our society. 
+
